@@ -1,7 +1,7 @@
 ### Добрый день, меня зовут Переводова Ксения и я являюсь начинающим разработчиком.
 
 Основной моей специальностью является Java-разработка, однако постепенно осваиваю иные направления и языки.
-> [Резюме](https://drive.google.com/file/d/1goCgWkL8M4q-uO0usSUpjrvnHGmXUXpr/view?usp=drivesdk)
+[Резюме](https://docs.google.com/document/d/1hYlUthhbeQcaTpRHwAUEOPMmNUGu4FgC/edit?usp=drivesdk&ouid=118337841065426671588&rtpof=true&sd=true)
 
 # Компетенции:
 - Java 11+
