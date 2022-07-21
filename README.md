@@ -9,11 +9,16 @@
 -> Java 11+<br/>
 -> Базовые знания Java Core<br/>
 -> Знание принципов функционирования информационных систем и основ ОПП<br/>
--> Знание SQL. Понимание принципов работы реляционных БД<br/>
+-> Знание SQL: MySQL. Понимание принципов работы реляционных БД<br/>
 -> Spring: Spring Framework, Spring Boot 2, Spring MVC<br/>
--> Git, Gradle, Maven, Docker<br/>
--> Java EE, Java Servlets<br/>
+-> Git<br/>
+-> Apache Tomcat, Gradle, Maven, Docker<br/>
+-> Hibernate ORM<br/>
+-> Java EE, Java SE, Java Servlets<br/>
 -> TDD, DDD<br/>
+-> JUnit, Mockito<br/>
+-> JDBC<br/>
+-> XML, HTML, CSS<br/>
 -> SOLID<br/>
 -> Коллекции<br/>
 -> Многопоточное (параллельное) программирование. Blocking и Non-Blocking IO<br/>
