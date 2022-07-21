@@ -6,19 +6,19 @@
 >[Резюме](https://drive.google.com/file/d/1c2fQTs7SJBRW5Xq7pNUR-apjG4Ws1gpj/view?usp=drivesdk)
 
 # Компетенции:
--> Java 11+
--> Базовые знания Java Core
--> Знание принципов функционирования информационных систем и основ ОПП
--> Знание SQL. Понимание принципов работы реляционных БД
--> Spring: Spring Framework, Spring Boot 2, Spring MVC
--> Git, Gradle, Maven, Docker
--> Java EE, Java Servlets
--> TDD, DDD
--> SOLID
--> Коллекции
--> Многопоточное (параллельное) программирование. Blocking и Non-Blocking IO
--> Обработка исключений
--> Технический английский
+-> Java 11+<br/>
+-> Базовые знания Java Core<br/>
+-> Знание принципов функционирования информационных систем и основ ОПП<br/>
+-> Знание SQL. Понимание принципов работы реляционных БД<br/>
+-> Spring: Spring Framework, Spring Boot 2, Spring MVC<br/>
+-> Git, Gradle, Maven, Docker<br/>
+-> Java EE, Java Servlets<br/>
+-> TDD, DDD<br/>
+-> SOLID<br/>
+-> Коллекции<br/>
+-> Многопоточное (параллельное) программирование. Blocking и Non-Blocking IO<br/>
+-> Обработка исключений<br/>
+-> Aнглийский на уровне способности к общению и чтению технической документации
 
 # Примеры проектов:
 [КУРСОВОЙ ПРОЕКТ "СЕТЕВОЙ ЧАТ"](https://github.com/xeniia-nikole/Online_Chat)<br/>
