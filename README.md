@@ -3,7 +3,7 @@
 >И хотя основной моей специальностью является Java, постепенно осваиваю иные направления и языки.
 Одинаково интересны, как back-, так и front-end направление.<br/>
 Полагаю, что инструментария много не бывает, и если специалист по серверам способен поправить отображение кода на web-странице - это только в плюс.<br/>
->[Резюме](https://drive.google.com/file/d/1c2fQTs7SJBRW5Xq7pNUR-apjG4Ws1gpj/view?usp=drivesdk)
+>[Резюме](https://drive.google.com/file/d/1K_TrUXT3WLLsXu1nx4zZ7vCdP0bFqM7n/view?usp=drivesdk)
 
 # Компетенции:
 -> Java 11+<br/>
